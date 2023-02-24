@@ -1,0 +1,120 @@
+body {
+    min-width: 300px;
+    min-height: 400px;
+    margin: 0px;
+    margin-top: -12px;
+    padding: 0px;
+    background: #2D313D;
+}
+
+#navBarSeetingsIcon{
+    height: 50px;
+    width: 50px;
+}
+
+label.logo {
+    color: white;
+    font-size: 17px;
+    font-weight: bold;
+    line-height: 5.1;
+    margin-left: 10px;
+}
+
+nav{
+    background: #3B3E4B;
+    height: 75px;
+    width: 100%;
+}
+
+nav ul{
+    float: right;
+    height: 51px;
+}
+
+nav ul li{
+    display: inline-block;
+    margin: 5px 5px;
+}
+
+#BodyTitle{
+    color: white;
+    font-size: 20px;
+    display: bloa;
+    display: block;
+    text-align: center;
+    padding: 25px;
+}
+
+.outer{
+    height: 160px;
+    width: 160px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 6px 6px 10px -1px rgba(0,0,0,0.35),
+                 -6px -6px 10px -1px rgba(59,62,75,0.7);
+}
+
+.inner {
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: inset 4px 4px 6px -1px rgb(0 0 0 / 70%),
+                 inset -4px -4px 6px -1px rgb(59 62 75 / 90%),
+                  -0.5px -0.5px 0px rgb(59 62 75),
+                   0.5px 0.5px 0px rgb(0 0 0 / 50%),
+                    0px 12px 10px -10px rgb(0 0 0 / 25%);
+}
+
+#number{
+    font-size: 40px;
+    color: white;
+}
+
+.centerProgressBar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.StartStopDiv {
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#StartStopButton{
+    height: 50px;
+    width: 200px;
+    border-radius: 12px;
+    background-color: lightcoral;
+}
+
+#StartStopButton:hover{
+    background-color: lightgreen;
+}
+
+circle{
+    fill: none;
+    stroke: url(#GradientColor);
+    stroke-width: 20px;
+    stroke-dasharray: 472;
+    stroke-dashoffset: 0;
+    animation: anim 20ms linear forwards;
+}
+
+svg{
+    position: absolute;
+}
+
+@keyframes anim {
+    100%{
+        stroke-dashoffset: 165;
+    }
+}
+

@@ -1,6 +1,8 @@
 # LinkedIn-AutoConnect
 
-Make a Folder and Simply Download The project into the folder
+Make a Folder and Simply Download The project into the folder 
+
+REMOVE THE VIDEO FROM FOLDER
 
 1. Go To The More Tools
 2. Go To The Extensions

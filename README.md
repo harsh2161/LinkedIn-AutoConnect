@@ -9,7 +9,7 @@ Make a Folder and Simply Download The project into the folder
 
 Done
 
-For seeing working of extension video is also uploaded you can watch that.
+For seeing working of extension Small Video video is also uploaded you can watch that. (assignmentVideo.mp4)
 
 LinkedIn : https://www.linkedin.com/in/harsh-pandey-2161hp
 Skype : https://join.skype.com/invite/w7Fv2iEpdwlS

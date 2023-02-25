@@ -104,17 +104,12 @@ circle{
     stroke: url(#GradientColor);
     stroke-width: 20px;
     stroke-dasharray: 472;
-    stroke-dashoffset: 0;
     animation: anim 20ms linear forwards;
 }
 
 svg{
     position: absolute;
-}
-
-@keyframes anim {
-    100%{
-        stroke-dashoffset: 165;
-    }
+    transform: rotate(-90deg);
+    stroke-dashoffset: 472;
 }
 

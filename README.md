@@ -11,7 +11,7 @@ REMOVE THE VIDEO FROM FOLDER
 
 Done
 
-For seeing working of extension Small Video video is also uploaded you can Download that. (assignmentVideo.mp4)
+For seeing working of extension Small Video is also uploaded you can Download that. (assignmentVideo.mp4)
 
 LinkedIn : https://www.linkedin.com/in/harsh-pandey-2161hp
 Skype : https://join.skype.com/invite/w7Fv2iEpdwlS
